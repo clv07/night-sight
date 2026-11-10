@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project artifacts: datasets, model weights, outputs (split lists stay tracked)
+weights/
+results/
+data/*
+!data/splits/
