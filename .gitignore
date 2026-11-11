@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+dataset/coco/
+dataset/motion_blur/
+
+.DS_Store
