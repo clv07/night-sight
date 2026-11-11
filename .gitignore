@@ -223,3 +223,8 @@ dataset/coco/
 dataset/motion_blur/
 
 .DS_Store
+# Project artifacts: datasets, model weights, outputs (split lists stay tracked)
+weights/
+results/
+data/*
+!data/splits/
